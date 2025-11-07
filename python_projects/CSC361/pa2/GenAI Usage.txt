@@ -1,0 +1,4 @@
+Google Gemini generative AI
+https://gemini.google.com/app
+
+I used generative AI to give me a general structure/format of how to write this program, along with recommended functions I would need to fulfill the assignment requirements. I also used it to help me understand how to read in bytes from the .cap file, and how to separate headers and data depending on their length in bits/bytes. 
